@@ -1,0 +1,6 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",Phone,+5511198888-1111,Your contact has been added!,2975.0,2975.0,2975.0,2975.0
+"",Phone,+5511198888-1112,Your contact has been added!,1603.0,1603.0,1603.0,1603.0
+"",Phone,+5511198888-1113,Your contact has been added!,1820.0,1820.0,1820.0,1820.0
+"",E-mail,teste@julio.com.br,Your contact has been added!,1822.0,1822.0,1822.0,1822.0
+"",E-mail,teste@gmail.com.br,Your contact has been added!,1549.0,1549.0,1549.0,1549.0
